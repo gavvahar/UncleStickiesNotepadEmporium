@@ -5,7 +5,10 @@
 }
 
 #modern {
-
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: #ffd600;
 }
 
 #impact {
