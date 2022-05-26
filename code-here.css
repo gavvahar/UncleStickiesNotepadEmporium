@@ -2,6 +2,8 @@
     text-align: justify;
     font-family: sans-serif;
     font-weight: bold;
+    padding-top: 10px;
+    padding-left: 5px;
 }
 
 #modern {
@@ -9,10 +11,16 @@
     font-family: sans-serif;
     font-weight: bold;
     background-color: #ffd600;
+    padding: 11px;
 }
 
 #impact {
-
+    background-color: #94ec94;
+    font-weight: bold;
+    border: 18px double black;
+    text-align: center;
+    padding: 15px;
+    
 }
 
 #elise {
