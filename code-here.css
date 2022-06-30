@@ -28,7 +28,12 @@
 }
 
 #one, #two  {
-
+    background-color: #7bfbd3;
+    border: #3bccce 7px outset;
+    display: inline-grid;
+    font-weight: bold;
+    padding: 15px 15px;
+    text-align: center;
 }
 
 #gaudi {
